@@ -1,0 +1,5 @@
+/node_modules
+packages-lock.json
+react-app/public/favicon.ico
+react-app/public/logo192.png
+react-app/public/logo512.png
