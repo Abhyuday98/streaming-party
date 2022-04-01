@@ -17,7 +17,7 @@ provide the missing files into the frontend folder. You follow the Readme file o
 2. Once open the ngrok shell. 
 3. run `ngrok http 4000`
 4. Ngrok will generate a link which you can share with your friend.
-5.  Make sure the other user starts and stops the video once. Share controls cannot cold start a video
+5.  Make sure the other user starts and stops the video once. Shared controls cannot cold start a video
 
 ## That's all
 
