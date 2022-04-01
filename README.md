@@ -7,10 +7,11 @@ Stream local videos with your friends and watch them together with shared contro
 provide the missing files into the frontend folder. You follow the Readme file on the frontend folder. Once you're done you will have your frontend build in your backend folder.
 
 ### Step 2: Start Backend Server
-1. `cd backend`
-2. `npm i`
-3. `npm run start`
-4. You will have your backend running in the default 4000 port
+1. `npm i`
+2. `cd backend`
+3. `npm i`
+4. `npm run start`
+5. You will have your backend running in the default 4000 port
 ## Download and run ngrok to start sharing
 
 1. You can download ngrok from the following link: https://ngrok.com/
