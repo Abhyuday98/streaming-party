@@ -21,5 +21,5 @@ provide the missing files into the frontend folder. You follow the Readme file o
 
 ## That's all
 
-You can share the link with your friends and watch your local movie with them. Add them to a zoom call and you can set up watch their reactions while watching your desired content.
+You can share the link with your friends and watch your local movie with them. Add them to a zoom call to make it even more fun!
 
