@@ -26,12 +26,12 @@ io.on("connection", function (socket) {
   console.log("Connected succesfully to the socket ...");
   socket.on("pause-video", (data) => {
     console.log("pause-video");
-    io.emit("pause-video", data);
+    io.emit("video-paused", data);
   });
   
   socket.on("play-video", (data) => {
     console.log("play-video");
-    io.emit("play-video", data);
+    io.emit("video-played", data);
   });
 });
 
