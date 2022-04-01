@@ -1,0 +1,13 @@
+{
+  "name": "streaming_party",
+  "version": "1.0.0",
+  "author": "Abhyuday Samadder",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/socket.io-client": "^3.0.0"
+  }
+}
