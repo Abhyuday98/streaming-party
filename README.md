@@ -11,12 +11,13 @@ provide the missing files into the frontend folder. You follow the Readme file o
 2. `npm i`
 3. `npm run start`
 4. You will have your backend running in the default 4000 port
-## Download and run ngrok
+## Download and run ngrok to start sharing
 
 1. You can download ngrok from the following link: https://ngrok.com/
 2. Once open the ngrok shell. 
 3. run `ngrok http 4000`
-4. Ngrok will generate a link which you can share with your friends. 
+4. Ngrok will generate a link which you can share with your friend.
+5.  Make sure the other user starts and stops the video once. Share controls cannot cold start a video
 
 ## That's all
 
