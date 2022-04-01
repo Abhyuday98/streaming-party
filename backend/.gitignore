@@ -2,6 +2,4 @@
 /public
 /build
 *.env
-serviceAccountKey.json
-/resources/*
-!resources/.gitkeep
+package-lock.json
